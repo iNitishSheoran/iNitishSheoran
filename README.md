@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nitishsheoran.netlify.app/](https://nitishsheoran.netlify.app/)
 
-- 💬 Ask me about **C++, HTML, CSS, JS, Tailwind, ReactJS, NodeJS**
+- 💬 Ask me about **C++, HTML, CSS, JS, Tailwind, Git, ReactJS, NodeJS**
 
 - 📫 How to reach me **Nitish.Sheoran@studentambassadors.com**
 
