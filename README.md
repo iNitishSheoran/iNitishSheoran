@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Nitish.Sheoran@studentambassadors.com**
 
-- 📄 Know about my experiences [https://nitishsheoran.netlify.app/Nitish%20Sheoran%20Resume.pdf](https://nitishsheoran.netlify.app/Nitish%20Sheoran%20Resume.pdf)
+- 📄 Resume is here [https://nitishsheoran.netlify.app/Nitish%20Sheoran%20Resume.pdf](https://nitishsheoran.netlify.app/Nitish%20Sheoran%20Resume.pdf)
 
 - ⚡ Fun fact **I thing I'm Introvert 😅**
 
