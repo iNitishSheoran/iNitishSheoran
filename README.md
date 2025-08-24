@@ -16,7 +16,7 @@
 
 - 📄 Resume is here [https://nitishsheoran.netlify.app/Nitish%20Sheoran%20Resume.pdf](https://nitishsheoran.netlify.app/Nitish%20Sheoran%20Resume.pdf)
 
-- ⚡ Fun fact **I think I'm Introvert 😅**
+- ⚡ Fun fact **I think I'm Introvert 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
